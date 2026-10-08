@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">VU TV Remote</string>
+    <string name="tv_model_label">VU Smart 2K (80V4)</string>
+    <string name="status_disconnected">Disconnected</string>
+    <string name="status_discovering">Scanning Wi-Fi for VU TV…</string>
+    <string name="status_connecting">Connecting to TV…</string>
+    <string name="status_pairing">Pairing Code Required</string>
+    <string name="status_connected">Connected</string>
+    <string name="manual_connect">Manual Connect</string>
+    <string name="enter_tv_ip">Enter VU TV IP Address</string>
+    <string name="enter_pairing_code">Enter 6-digit TV Pairing Code</string>
+    <string name="pairing_desc">A 6-character code appears on your VU TV screen. Type it below to complete secure pairing.</string>
+    <string name="connect_btn">Connect</string>
+    <string name="cancel_btn">Cancel</string>
+    <string name="disconnect_btn">Disconnect</string>
+</resources>
